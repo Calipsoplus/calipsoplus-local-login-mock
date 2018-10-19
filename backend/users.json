@@ -1,0 +1,26 @@
+[
+    {
+        "model": "login.MockUser",
+        "pk": 1,
+        "fields": {
+            "login":"calipso1",
+            "password":"calipso1"
+        }
+    },
+    {
+        "model": "login.MockUser",
+        "pk": 2,
+        "fields": {
+            "login":"calipso2",
+            "password":"calipso2"   
+        }
+    },
+    {
+        "model": "login.MockUser",
+        "pk": 3,
+        "fields": {
+            "login":"calipso3",
+            "password":"calipso3"   
+        }
+    }
+]

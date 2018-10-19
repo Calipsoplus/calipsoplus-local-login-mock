@@ -1,0 +1,13 @@
+env/
+*.log
+logs/*.log
+*.sqlite
+*.pyc
+*.project
+*.pydevproject
+*.settings
+.idea
+*/.idea
+*.cnf
+*/__pycache__
+*.sqlite3
